@@ -1,0 +1,26 @@
+/*<input type="text" name="userName"  placeholder="Votre nom"
+value={values.userName} onChange={handleChange} />
+
+
+<input type="email" name="email"  placeholder="Votre email"
+value={values.email} onChange={handleChange} />
+
+<br></br>
+
+<input type="text" name="adresse"  placeholder="Votre adresse"
+value={values.adresse} onChange={handleChange} />
+
+
+<br></br>
+
+<input type="text" name="phone"  placeholder="Votre numéro"
+ value={values.phone} onChange={handleChange} />
+
+ <br></br>
+
+
+<input type="password" name="password"   placeholder="Votre mot de passe"
+ value={values.password} onChange={handleChange} />
+
+        <button class="ghost1" id="signIn">S'inscrire</button>    
+*/
